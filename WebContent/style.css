@@ -1,0 +1,722 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+
+.b:nth-child(0) {
+  -webkit-animation: rotate 1s linear infinite 0s;
+  opacity: 1;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(1) {
+  -webkit-animation: rotate 1s linear infinite 0.01s;
+  opacity: 0.99;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(2) {
+  -webkit-animation: rotate 1s linear infinite 0.02s;
+  opacity: 0.98;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(3) {
+  -webkit-animation: rotate 1s linear infinite 0.03s;
+  opacity: 0.97;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(4) {
+  -webkit-animation: rotate 1s linear infinite 0.04s;
+  opacity: 0.96;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(5) {
+  -webkit-animation: rotate 1s linear infinite 0.05s;
+  opacity: 0.95;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(6) {
+  -webkit-animation: rotate 1s linear infinite 0.06s;
+  opacity: 0.94;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(7) {
+  -webkit-animation: rotate 1s linear infinite 0.07s;
+  opacity: 0.93;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(8) {
+  -webkit-animation: rotate 1s linear infinite 0.08s;
+  opacity: 0.92;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(9) {
+  -webkit-animation: rotate 1s linear infinite 0.09s;
+  opacity: 0.91;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(10) {
+  -webkit-animation: rotate 1s linear infinite 0.1s;
+  opacity: 0.9;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(11) {
+  -webkit-animation: rotate 1s linear infinite 0.11s;
+  opacity: 0.89;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(12) {
+  -webkit-animation: rotate 1s linear infinite 0.12s;
+  opacity: 0.88;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(13) {
+  -webkit-animation: rotate 1s linear infinite 0.13s;
+  opacity: 0.87;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(14) {
+  -webkit-animation: rotate 1s linear infinite 0.14s;
+  opacity: 0.86;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(15) {
+  -webkit-animation: rotate 1s linear infinite 0.15s;
+  opacity: 0.85;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(16) {
+  -webkit-animation: rotate 1s linear infinite 0.16s;
+  opacity: 0.84;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(17) {
+  -webkit-animation: rotate 1s linear infinite 0.17s;
+  opacity: 0.83;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(18) {
+  -webkit-animation: rotate 1s linear infinite 0.18s;
+  opacity: 0.82;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(19) {
+  -webkit-animation: rotate 1s linear infinite 0.19s;
+  opacity: 0.81;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(20) {
+  -webkit-animation: rotate 1s linear infinite 0.2s;
+  opacity: 0.8;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(21) {
+  -webkit-animation: rotate 1s linear infinite 0.21s;
+  opacity: 0.79;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(22) {
+  -webkit-animation: rotate 1s linear infinite 0.22s;
+  opacity: 0.78;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(23) {
+  -webkit-animation: rotate 1s linear infinite 0.23s;
+  opacity: 0.77;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(24) {
+  -webkit-animation: rotate 1s linear infinite 0.24s;
+  opacity: 0.76;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(25) {
+  -webkit-animation: rotate 1s linear infinite 0.25s;
+  opacity: 0.75;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(26) {
+  -webkit-animation: rotate 1s linear infinite 0.26s;
+  opacity: 0.74;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(27) {
+  -webkit-animation: rotate 1s linear infinite 0.27s;
+  opacity: 0.73;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(28) {
+  -webkit-animation: rotate 1s linear infinite 0.28s;
+  opacity: 0.72;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(29) {
+  -webkit-animation: rotate 1s linear infinite 0.29s;
+  opacity: 0.71;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(30) {
+  -webkit-animation: rotate 1s linear infinite 0.3s;
+  opacity: 0.7;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(31) {
+  -webkit-animation: rotate 1s linear infinite 0.31s;
+  opacity: 0.69;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(32) {
+  -webkit-animation: rotate 1s linear infinite 0.32s;
+  opacity: 0.68;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(33) {
+  -webkit-animation: rotate 1s linear infinite 0.33s;
+  opacity: 0.67;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(34) {
+  -webkit-animation: rotate 1s linear infinite 0.34s;
+  opacity: 0.66;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(35) {
+  -webkit-animation: rotate 1s linear infinite 0.35s;
+  opacity: 0.65;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(36) {
+  -webkit-animation: rotate 1s linear infinite 0.36s;
+  opacity: 0.64;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(37) {
+  -webkit-animation: rotate 1s linear infinite 0.37s;
+  opacity: 0.63;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(38) {
+  -webkit-animation: rotate 1s linear infinite 0.38s;
+  opacity: 0.62;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(39) {
+  -webkit-animation: rotate 1s linear infinite 0.39s;
+  opacity: 0.61;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(40) {
+  -webkit-animation: rotate 1s linear infinite 0.4s;
+  opacity: 0.6;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(41) {
+  -webkit-animation: rotate 1s linear infinite 0.41s;
+  opacity: 0.59;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(42) {
+  -webkit-animation: rotate 1s linear infinite 0.42s;
+  opacity: 0.58;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(43) {
+  -webkit-animation: rotate 1s linear infinite 0.43s;
+  opacity: 0.57;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(44) {
+  -webkit-animation: rotate 1s linear infinite 0.44s;
+  opacity: 0.56;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(45) {
+  -webkit-animation: rotate 1s linear infinite 0.45s;
+  opacity: 0.55;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(46) {
+  -webkit-animation: rotate 1s linear infinite 0.46s;
+  opacity: 0.54;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(47) {
+  -webkit-animation: rotate 1s linear infinite 0.47s;
+  opacity: 0.53;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(48) {
+  -webkit-animation: rotate 1s linear infinite 0.48s;
+  opacity: 0.52;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(49) {
+  -webkit-animation: rotate 1s linear infinite 0.49s;
+  opacity: 0.51;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(50) {
+  -webkit-animation: rotate 1s linear infinite 0.5s;
+  opacity: 0.5;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(51) {
+  -webkit-animation: rotate 1s linear infinite 0.51s;
+  opacity: 0.49;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(52) {
+  -webkit-animation: rotate 1s linear infinite 0.52s;
+  opacity: 0.48;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(53) {
+  -webkit-animation: rotate 1s linear infinite 0.53s;
+  opacity: 0.47;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(54) {
+  -webkit-animation: rotate 1s linear infinite 0.54s;
+  opacity: 0.46;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(55) {
+  -webkit-animation: rotate 1s linear infinite 0.55s;
+  opacity: 0.45;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(56) {
+  -webkit-animation: rotate 1s linear infinite 0.56s;
+  opacity: 0.44;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(57) {
+  -webkit-animation: rotate 1s linear infinite 0.57s;
+  opacity: 0.43;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(58) {
+  -webkit-animation: rotate 1s linear infinite 0.58s;
+  opacity: 0.42;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(59) {
+  -webkit-animation: rotate 1s linear infinite 0.59s;
+  opacity: 0.41;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(60) {
+  -webkit-animation: rotate 1s linear infinite 0.6s;
+  opacity: 0.4;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(61) {
+  -webkit-animation: rotate 1s linear infinite 0.61s;
+  opacity: 0.39;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(62) {
+  -webkit-animation: rotate 1s linear infinite 0.62s;
+  opacity: 0.38;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(63) {
+  -webkit-animation: rotate 1s linear infinite 0.63s;
+  opacity: 0.37;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(64) {
+  -webkit-animation: rotate 1s linear infinite 0.64s;
+  opacity: 0.36;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(65) {
+  -webkit-animation: rotate 1s linear infinite 0.65s;
+  opacity: 0.35;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(66) {
+  -webkit-animation: rotate 1s linear infinite 0.66s;
+  opacity: 0.34;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(67) {
+  -webkit-animation: rotate 1s linear infinite 0.67s;
+  opacity: 0.33;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(68) {
+  -webkit-animation: rotate 1s linear infinite 0.68s;
+  opacity: 0.32;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(69) {
+  -webkit-animation: rotate 1s linear infinite 0.69s;
+  opacity: 0.31;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(70) {
+  -webkit-animation: rotate 1s linear infinite 0.7s;
+  opacity: 0.3;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(71) {
+  -webkit-animation: rotate 1s linear infinite 0.71s;
+  opacity: 0.29;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(72) {
+  -webkit-animation: rotate 1s linear infinite 0.72s;
+  opacity: 0.28;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(73) {
+  -webkit-animation: rotate 1s linear infinite 0.73s;
+  opacity: 0.27;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(74) {
+  -webkit-animation: rotate 1s linear infinite 0.74s;
+  opacity: 0.26;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(75) {
+  -webkit-animation: rotate 1s linear infinite 0.75s;
+  opacity: 0.25;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(76) {
+  -webkit-animation: rotate 1s linear infinite 0.76s;
+  opacity: 0.24;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(77) {
+  -webkit-animation: rotate 1s linear infinite 0.77s;
+  opacity: 0.23;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(78) {
+  -webkit-animation: rotate 1s linear infinite 0.78s;
+  opacity: 0.22;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(79) {
+  -webkit-animation: rotate 1s linear infinite 0.79s;
+  opacity: 0.21;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(80) {
+  -webkit-animation: rotate 1s linear infinite 0.8s;
+  opacity: 0.2;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(81) {
+  -webkit-animation: rotate 1s linear infinite 0.81s;
+  opacity: 0.19;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(82) {
+  -webkit-animation: rotate 1s linear infinite 0.82s;
+  opacity: 0.18;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(83) {
+  -webkit-animation: rotate 1s linear infinite 0.83s;
+  opacity: 0.17;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(84) {
+  -webkit-animation: rotate 1s linear infinite 0.84s;
+  opacity: 0.16;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(85) {
+  -webkit-animation: rotate 1s linear infinite 0.85s;
+  opacity: 0.15;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(86) {
+  -webkit-animation: rotate 1s linear infinite 0.86s;
+  opacity: 0.14;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(87) {
+  -webkit-animation: rotate 1s linear infinite 0.87s;
+  opacity: 0.13;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(88) {
+  -webkit-animation: rotate 1s linear infinite 0.88s;
+  opacity: 0.12;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(89) {
+  -webkit-animation: rotate 1s linear infinite 0.89s;
+  opacity: 0.11;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(90) {
+  -webkit-animation: rotate 1s linear infinite 0.9s;
+  opacity: 0.1;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(91) {
+  -webkit-animation: rotate 1s linear infinite 0.91s;
+  opacity: 0.09;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(92) {
+  -webkit-animation: rotate 1s linear infinite 0.92s;
+  opacity: 0.08;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(93) {
+  -webkit-animation: rotate 1s linear infinite 0.93s;
+  opacity: 0.07;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(94) {
+  -webkit-animation: rotate 1s linear infinite 0.94s;
+  opacity: 0.06;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(95) {
+  -webkit-animation: rotate 1s linear infinite 0.95s;
+  opacity: 0.05;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(96) {
+  -webkit-animation: rotate 1s linear infinite 0.96s;
+  opacity: 0.04;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(97) {
+  -webkit-animation: rotate 1s linear infinite 0.97s;
+  opacity: 0.03;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(98) {
+  -webkit-animation: rotate 1s linear infinite 0.98s;
+  opacity: 0.02;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(99) {
+  -webkit-animation: rotate 1s linear infinite 0.99s;
+  opacity: 0.01;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(100) {
+  -webkit-animation: rotate 1s linear infinite 1s;
+  opacity: 0;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(101) {
+  -webkit-animation: rotate 1s linear infinite 1.01s;
+  opacity: -0.01;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(102) {
+  -webkit-animation: rotate 1s linear infinite 1.02s;
+  opacity: -0.02;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(103) {
+  -webkit-animation: rotate 1s linear infinite 1.03s;
+  opacity: -0.03;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(104) {
+  -webkit-animation: rotate 1s linear infinite 1.04s;
+  opacity: -0.04;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(105) {
+  -webkit-animation: rotate 1s linear infinite 1.05s;
+  opacity: -0.05;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(106) {
+  -webkit-animation: rotate 1s linear infinite 1.06s;
+  opacity: -0.06;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(107) {
+  -webkit-animation: rotate 1s linear infinite 1.07s;
+  opacity: -0.07;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(108) {
+  -webkit-animation: rotate 1s linear infinite 1.08s;
+  opacity: -0.08;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+.b:nth-child(109) {
+  -webkit-animation: rotate 1s linear infinite 1.09s;
+  opacity: -0.09;
+  /*background:hsla(222, 100%, 50%, 1-$d/100);*/
+}
+
+body {
+  background: #000;
+
+}
+header{
+  background: #f2f2f2;
+  margin: 0;
+  position: fixed;
+  top: -1px;
+  width: 105%;
+  min-height: 50px;
+  margin-left: -16px;
+}
+header p{
+  text-align: center;
+  padding: 5px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 22px;
+}
+footer{
+  background: #f2f2f2;
+  text-align: center;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+   width: 105%;
+  min-height: 50px;
+  margin-left: -16px;
+}
+footer p{
+  text-align: center;
+  padding: 5px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 12px;
+}
+.contenedor{
+    margin-top: 150px
+}
+
+.b {
+  width: 20px;
+  height: 20px;
+  margin: 0 auto;
+  border-radius: 50%;
+  box-shadow: 40px 0px #70ddb8, -40px 0px #70ddb8;
+  margin-top: -16px;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
